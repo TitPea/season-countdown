@@ -34,11 +34,6 @@ It automatically detects the current date, determines the current season, and up
 - CSS3  
 - JavaScript (Vanilla JS, no frameworks)  
 
-## Preview
-
-*(Add a screenshot or GIF of the countdown display if available)*  
-![Season Countdown Screenshot](./screenshot.png)
-
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
